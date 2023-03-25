@@ -1,1 +1,1 @@
-SELECT * FROM soportetecnico.usuario;
+SELECT * FROM soportetecnico.clientes;
